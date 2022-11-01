@@ -4,6 +4,7 @@ int main()
 {
   std::cout << "Thanks for viewing my code!";
   std::cout << "You're welcome";
+  std::cout << "Thank you for providing the code";
 
   return 0;
 }
